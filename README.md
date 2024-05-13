@@ -4,7 +4,7 @@ Debemos que cosiderar que esta versión esta diseñada para remplazar HTTP por W
 
 Autor: David Jiménez
 
-- Fue desactivado la creación y recuperación de cuantas de usuarios
+- Fue desactivado la creación y recuperación de cuentas de usuarios
 Para entrar en los usuarios probar los usuarios de pruebas siguientes:
 
 Admin: 123
