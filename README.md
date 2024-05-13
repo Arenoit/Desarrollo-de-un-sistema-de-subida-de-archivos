@@ -20,4 +20,4 @@ Sistema completo 8 módulos para el administrador, módulos usuario final, proye
 
 ---
 ⭐️ Nota
-Este proyecto fue borrado por medidas de seguridad, dirijase a [![Repositorio-Digital.png](https://github.com/Arenoit/Repositorio-Institucional-Web-Soket)
+Este proyecto fue borrado por medidas de seguridad, dirijase a [![https://github.com/Arenoit/Repositorio-Institucional-Web-Soket](https://github.com/Arenoit/Repositorio-Institucional-Web-Soket)
