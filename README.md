@@ -6,8 +6,11 @@ Autor: David Jiménez
 
 - Fue desactivado la creación y recuperación de cuantas de usuarios
 Para entrar en los usuarios probar los usuarios de pruebas siguientes:
+
 Admin: 123
+
 User1: 123
+
 User2: 123
 
 [![Buscador.png](https://i.postimg.cc/FKPwPVL9/Buscador.png)](https://postimg.cc/Y4WX0gRV)
